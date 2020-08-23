@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Messages</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_profile">Profile Settings</string>
+    <string name="title_invite_more_friends">Invite More Friends</string>
+    <string name="title_other_settings">Other Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="you_don_t_have_any_offerings_yet">You don\'t have any offerings yet</string>
+    <string name="messages">Messages</string>
+    <string name="notifications">Notifications</string>
+    <string name="inviteFriends">Invite Friends </string>
+    <string name="otherActivity">Other Settings </string>
+    <string name="profile_icon">Profile</string>
+</resources>
